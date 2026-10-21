@@ -1,0 +1,8 @@
+.DS_Store
+GEMINI.md
+.github/
+node_modules/
+dist/
+.env
+.env.*
+coverage/
